@@ -1,0 +1,7 @@
+This file is automatically created when you run energy_aware_vm.py.
+
+It contains a bar chart comparing total power consumption of:
+
+🟧 First-Fit VM Placement
+
+🟩 Energy-Aware VM Placement
